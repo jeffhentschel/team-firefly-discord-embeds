@@ -1,0 +1,219 @@
+[
+    {
+        "type": "books",
+        "channel": 1129938104946524160,
+        "embeds": [
+            {
+                "id": 1129951763080957993,
+                "title": "Cracking the Coding Interview",
+                "author": "Gayle Laakmann McDowell",
+                "description": "Cracking the Coding Interview, 6th Edition is here to help you through this process, teaching you what you need to know and enabling you to perform at your very best. I've coached and interviewed hundreds of software engineers. The result is this book.\n\n    Learn how to uncover the hints and hidden details in a question, discover how to break down a problem into manageable chunks, develop techniques to unstick yourself when stuck, learn (or re-learn) core computer science concepts, and practice on 189 interview questions and solutions.",
+                "link": "https://www.crackingthecodinginterview.com/",
+                "thumbnail": "https://m.media-amazon.com/images/I/410hiaPGyCL._SX348_BO1,204,203,200_.jpg",
+                "fields": [
+                    { "name": "[6e] MelCat Link", "value": "http://elibrary.mel.org/record=b27928179~S15" },
+                    { "name": "[6e] MelCat Link Alt", "value": "http://elibrary.mel.org/record=b31345515~S15" }
+                ]
+            },
+            {
+                "id": 1129951764150505502,
+                "title": "Cracking the Tech Career",
+                "author": "Gayle Laakmann McDowell",
+                "description": "Cracking the Tech Career is the job seeker's guide to landing a coveted position at one of the top tech firms. A follow-up to The Google Resume, this book provides new information on what these companies want, and how to show them you have what it takes to succeed in the role. Early planners will learn what to study, and established professionals will discover how to make their skillset and experience set them apart from the crowd.",
+                "link": "https://www.crackingthetechcareer.com/",
+                "thumbnail": "https://m.media-amazon.com/images/I/51kjWrvEvPL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+                "fields": [
+                    { "name": "[2014] MelCat Link", "value": "http://elibrary.mel.org/record=b27928179~S15" },
+                    { "name": "[2014] MelCat Link Alt", "value": "http://elibrary.mel.org/record=b31345515~S15" }
+                ]
+            },
+            {
+                "id": 1129951764934832138,
+                "title": "Designing Data-Intensive Applications",
+                "author": "Martin Kleppmann",
+                "description": "In this practical and comprehensive guide, author Martin Kleppmann helps you navigate this diverse landscape by examining the pros and cons of various technologies for processing and storing data. Software keeps changing, but the fundamental principles remain the same. With this book, software engineers and architects will learn how to apply those ideas in practice, and how to make full use of data in modern applications.",
+                "link": "https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/",
+                "thumbnail": "https://m.media-amazon.com/images/I/514xvNk9rTL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg",
+                "fields": [
+                    { "name": "[2023] MelCat Link", "value": "http://elibrary.mel.org/record=b43640709~S15" },
+                    { "name": "[2017] MelCat Link", "value": "http://elibrary.mel.org/record=b38438946~S15" },
+                    { "name": "[2017] MelCat Link Alt", "value": "http://elibrary.mel.org/record=b36723784~S15"}
+                ]
+            },
+            {
+                "id": "1129952681344127077",
+                "title": "The Algorithm Design Manual",
+                "author": "Steven Skiena",
+                "description": "The reader-friendly The Algorithm Design Manual provides straightforward access to combinatorial algorithms technology, stressing design over analysis. The first part, Techniques, provides accessible instruction on methods for designing and analyzing computer algorithms. The second part, Resources, is intended for browsing and reference, and comprises the catalog of algorithmic resources, implementations and an extensive bibliography.",
+                "link": "https://www.algorist.com/",
+                "thumbnail": "https://m.media-amazon.com/images/I/41aIjDXst7L._SX377_BO1,204,203,200_.jpg",
+                "fields": [
+                    { "name": "[3e] MelCat Link", "value": "http://elibrary.mel.org/record=b42013679~S15" },
+                    { "name": "[2e] MelCat Link", "value": "http://elibrary.mel.org/record=b24529028~S15" },
+                    { "name": "[1e] MelCat Link", "value": "http://elibrary.mel.org/record=b12333960~S15"}
+                ]
+            }
+        ]
+    },
+    {
+        "type": "links",
+        "channel": 1129938495922770031,
+        "embeds": [
+            {
+                "id": 1129955892251594853,
+                "title": "Teal HQ",
+                "description": "Better Resume. Faster Search. More Offers. Simplify your job search and land your next position sooner with Teal's all-in-one suite of tools.",
+                "link": "https://app.tealhq.com/"
+            },
+            {
+                "id": 1129955893623132201,
+                "title": "Linked In",
+                "description": "Stay connected with colleagues, mentors, and alumni",
+                "link": "https://www.linkedin.com/"
+            },
+            {
+                "id": 1129955894646542416,
+                "title": "r/cscareerquestions Résumé FAQ",
+                "description": "You can take part in a weekly résumé feedback session on r/cscareerquestions. This is a collection of tips they've provided.",
+                "link": "https://www.reddit.com/r/cscareerquestions/wiki/faq_resumes"
+            },
+            {
+                "id": 1130212166973280346,
+                "title": "Builtin",
+                "description": "Learn. Grow. Build your career.",
+                "link": "https://builtin.com/",
+                "thumbnail": "https://builtin.com/sites/www.builtin.com/files/styles/company_logo/public/2021-07/built-logo.png"
+            },
+            {
+                "id": 1130212166973280346,
+                "title": "levels.fyi",
+                "description": "Get salary and culture information about companies.",
+                "link": "https://www.levels.fyi/",
+                "thumbnail": "https://logovtor.com/wp-content/uploads/2020/12/levels-fyi-logo-vector.png"
+            },
+            {
+                "id": 1133430682253795460,
+                "title": "Simplify",
+                "description": "Auto-fill for job posting information and application tracker",
+                "link": "https://simplify.jobs/",
+                "thumbnail": "https://storage.googleapis.com/simplify-imgs/companies/d0aee38e-0ac4-4a7d-91a0-44a6de1e4de8/logo.png"
+            }
+        ]
+    },
+    {
+        "type": "coding-tools",
+        "channel": 1129938411592106114,
+        "embeds": [
+            {
+                "id": 1129957690697850900,
+                "title": "LeetCode",
+                "description": "Level up your coding skills and quickly land a job. This is the best place to expand your knowledge and get prepared for your next interview.",
+                "link": "https://leetcode.com/",
+                "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+            },
+            {
+                "id": 1129957691658358784,
+                "title": "HackerRank",
+                "description": "HackerRank is the market-leading technical assessment and remote interview solution for hiring developers. Start hiring at the pace of innovation!",
+                "link": "https://www.hackerrank.com/",
+                "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"
+            },
+            {
+                "id": 1130213074213810228,
+                "title": "Miro",
+                "description": "Online live collaborative whiteboard tool. Free to use.",
+                "link": "https://miro.com/app/",
+                "thumbnail": "https://seeklogo.com/images/M/miro-logo-4F00416377-seeklogo.com.png"
+            }
+        ]
+    },
+    {
+        "type": "job-listings",
+        "channel": 1129938038848495636,
+        "embeds": [
+            {
+                "id": 1129959503480229969,
+                "title": "Otta",
+                "description": "Only matches tailored to your preferences. Only the most exciting, innovative and fast-moving companies.",
+                "link": "https://otta.com/"
+            },
+            {
+                "id": 1129959504130363554,
+                "title": "Working Nomad",
+                "description": "Remote jobs for digital working nomads. Start your telecommuting career and work remotely from home or places around the world.",
+                "link": "https://www.workingnomads.com/jobs",
+                "fields": [
+                    { "name": "Notes", "value": "Focus is on remote jobs."}
+                ]
+            },
+            {
+                "id": 1129959504944054434,
+                "title": "WayUp",
+                "description": "The industry leader for qualified and diverse candidates to get discovered and hired. Search for job and internship opportunities, access career advice, and connect directly with top employers.",
+                "link": "https://www.wayup.com/",
+                "fields": [
+                    { "name": "Notes", "value": "Focus is on entry-level and startups." }
+                ]
+            },
+            {
+                "id": 1129959506764374046,
+                "title": "WellFound",
+                "description": "Apply privately to 130,000+ remote jobs and startup jobs near you with one application. See salary and equity upfront. Find the latest tech jobs, company overviews, benefits and more at Wellfound.",
+                "link": "https://wellfound.com/",
+                "fields": [
+                    { "name": "Notes", "value": "Focus is on a startups. Formerly known as \"AngelList Talent.\"" }
+                ]
+            },
+            {
+                "id": 1129959508563738624,
+                "title": "Dice",
+                "description": "Search 70,000+ job openings from tech's hottest employers. Salary estimations, career path tips and Insights to make your next career move the right one.",
+                "link": "https://www.dice.com/"
+            },
+            {
+                "id": 1129959510224674867,
+                "title": "GetWork",
+                "description": "Millions of jobs for you. Verified by us.",
+                "link": "https://getwork.com/"
+            },
+            {
+                "id": 1130212169393393725,
+                "title": "DiversifyTech",
+                "description": "Connecting underrepresented folks in tech with career opportunities.",
+                "link": "https://www.diversifytech.com/",
+                "thumbnail": "https://www.diversifytech.com/assets/logo.6747a224.png"
+            },
+            {
+                "id": 1130212170634895380,
+                "title": "YCombinator",
+                "description": "Find the best startup jobs, curated by Y Combinator.",
+                "link": "https://www.ycombinator.com/jobs",
+                "thumbnail": "https://www.ycombinator.com/packs/static/ycdc/ycombinator-logo-ee6c80faf1d1ce2491d8.png"
+            },
+            {
+                "id": 1130212171851255888,
+                "title": "Ladders",
+                "description": "Highest paying job search",
+                "link": "https://www.theladders.com/",
+                "thumbnail": "https://ta-prod-assets.s3.us-east-1.amazonaws.com/media/2020/01/30114519/press-logo-Ladders.png",
+                "fields": [
+                    { "name": "Notes", "value": "Focus is on more experienced positions." }
+                ]
+            },
+            {
+                "id": 1130212172258083018,
+                "title": "Glassdoor",
+                "description": "Millions of jobs. Search by what matters to you and find the one that's right for you.",
+                "link": "https://www.glassdoor.com/",
+                "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Glassdoor_logo.svg/2560px-Glassdoor_logo.svg.png"
+            },
+            {
+                "id": 1130212173503807540,
+                "title": "Indeed",
+                "description": "Indeed helps people get jobs.",
+                "link": "https://www.indeed.com/",
+                "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Indeed_logo.svg/2560px-Indeed_logo.svg.png"
+            }
+        ]
+    }
+]
