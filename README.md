@@ -16,7 +16,7 @@ This is a small script that sends embed objects to the Team Firefly Discord serv
 
 The "embeds.json" file should follow the following syntax:
 
-```json
+```js
  [
     // A category (channel) where embeds will be posted.
     {
